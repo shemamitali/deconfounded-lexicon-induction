@@ -18,7 +18,7 @@ setup(
     packages=['causal_attribution'],
     install_requires=[
         'scipy',
-        'sklearn',
+        'scikit-learn',
         'nltk',
         'pandas',
         'torch>=1.0.0'
