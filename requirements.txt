@@ -2,5 +2,5 @@ tqdm
 scipy
 pandas
 torch==1.4.0
-sklearn
+scikit-learn
 nltk
